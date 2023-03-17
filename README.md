@@ -1,4 +1,4 @@
-# Analyse des arbres de la ville de Paris
+# Participez à un concours sur la Smart City
 ## Introduction
 Ce projet a été réalisé dans le cadre d'un challenge de data science proposé par l'ONG "Data is for Good" et sponsorisé par la ville de Paris. L'objectif de ce challenge était d'analyser les données des arbres de la ville de Paris pour aider à l'optimisation des tournées pour l'entretien de ces arbres.
 
@@ -16,6 +16,7 @@ Ce projet évalue les compétences suivantes :
 
 - Utiliser des librairies Python pour réaliser une analyse de données exploratoires
 - Effectuer une analyse statistique univariée.
+- Détecter les anomalies
 
 ## présentation
 Vous trouverez dans la présentation PowerPoint une proposition d'application visant à simplifier le travail d'entretien des arbres de la ville de Paris ainsi qu'une maquette de cette application
